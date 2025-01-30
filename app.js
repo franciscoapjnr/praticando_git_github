@@ -1,4 +1,4 @@
-let listaDeNumerosSorteados = []; // se atente na ordem dos comandos!   // realizando testes no git and github
+let listaDeNumerosSorteados = []; // se atente na ordem dos comandos!   // realizando testes no git and github 
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
@@ -65,7 +65,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-//teste usando git e github v2
+//novo teste usando git e github v4
 
 
 
